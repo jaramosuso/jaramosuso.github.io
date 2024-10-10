@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://jaramosuso.github.io/sitemap/sitemap_index.txt.gz
